@@ -16,4 +16,5 @@ puvlic class datatype{
      System.out.println(d);
      System.out.println(f);
      System.out.println(c);
+}
   }
